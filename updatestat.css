@@ -1,0 +1,59 @@
+#seolib_upstat
+{
+    text-align:center;
+    width: 100%;
+    font-family: tahoma;
+    font-size: 11px;
+}
+#seolib_upstat a
+{
+    color:#000;
+    text-decoration:none;
+}
+#seolib_upstat a:hover
+{
+    color:#00A;
+    text-decoration:underline;
+}
+.seolib_table
+{
+    border-collapse: collapse;
+    font-family: tahoma;
+    font-size: 11px;
+    margin: 0px auto auto 0px;
+    width: 100%;
+}
+
+.seolib_table th {
+    background-color: #EEE;
+    border:1px solid #CCC;
+    font-weight: bold;
+    padding:3px;
+    text-align: center;
+}
+
+.seolib_table td {
+    border:1px solid #CCC;
+    padding: 3px;
+    text-align: center;
+}
+
+
+.seolib_table .podsv1 {
+    background-color: #E3F9E3;
+}
+.seolib_table .podsv2 {
+    background-color: #FFFDBD;
+}
+.seolib_table .podsv3 {
+    background-color: #F3E2E2;
+}
+.up_number_of_days {
+    width: 35px;
+}
+.up_number_of_days_link {
+    font-style: italic;
+}
+.seolib_table .bbz {
+    border-bottom: 0;
+}
